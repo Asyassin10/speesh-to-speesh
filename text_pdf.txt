@@ -1,0 +1,97 @@
+FOIRE
+AUX QUESTIONS
+FOIRE AUX QUESTIONS
+· Qui peut s’inscrire à CIH ON LINE ?
+· Comment s›inscrire à CIH ON LINE?
+· Quel est le coût de l’inscription à CIH ON LINE?
+· Quels codes sont nécessaires pour accéder à CIH ON LINE?
+· Comment je peux accéder à mon compte CIH ON LINE?
+· Que faire en cas d›oubli du mot de passe ?
+· Quelle est la sécurité assurée par CIH ON LINE?
+· Quelles sont les mesures de sécurité à respecter par l’utilisateur ?
+· Que faire en cas de problèmes ?
+Foire aux Questions 2
+FOIRE AUX QUESTIONS
+INSCRIPTION
+Qui peut s’inscrire à CIH ON LINE ?
+• CIH ON LINE est un service accessible à tous les clients du CIH BANK.
+• Les non clients peuvent également avoir accès au CIH ON LINE en ouvrant un compte dans une agence CIH BANK.
+Comment s›inscrire à CIH ON LINE?
+Pour vous abonner à CIH ON LINE, vous pouvez choisir l’une des solutions suivantes :
+• Vous rendre à votre agence CIH BANK et souscrire un contrat d›abonnement à ce service,
+• Télécharger et imprimer le contrat d’abonnement (format pdf) disponible sur le site, le remplir, le signer et l’envoyer à votre
+agence.
+Quel est le coût de l’inscription à CIH ON LINE?
+• Votre abonnement au CIH ON LINE est gratuit ainsi que toutes vos consultations.
+• Les transactions et les téléchargements de documents sont facturés. Vous serez informé du tarif applicable à chaque opération que
+vous initieriez. Cette commission ne sera prélevée sur votre compte qu’après acceptation de son paiement.
+• Les frais de communication et de connexion à Internet sont à la charge de l’abonné.
+FOIRE AUX QUESTIONS
+ACCÈS AU COMPTE
+Quels sont les codes nécessaires pour accéder à CIH ON LINE?
+Pour utiliser CIH ON LINE, vous avez besoin de deux codes indispensables à la connexion:
+• Votre numéro client ( les 7 premiers chiffres de votre numéro de compte )
+• Votre mot de passe (code secret), Il est défini au moment de votre abonnement et vous avez la possibilité de le modifier en ligne,
+ou en agence, à tout moment. Il est recommandé de ne pas divulguer la structure de l’identifiant et du mot de passe, ces
+informations faciliteront la tâche aux éventuels hackers.
+Comment je peux accéder à mon compte CIH ON LINE?
+Pour accéder à votre compte CIH ON LINE, il vous suffit de suivre les étapes suivantes :
+• Saisissez votre numéro client ( les 7 premiers chiffres de votre numéro de compte )
+• Appuyez sur valider, un clavier numérique virtuel apparait alors sur votre écran
+• A l’aide de ce clavier, saisissez votre mot de passe (code secret).
+Que faire en cas d’oubli du mot de passe ?
+Si vous avez oublié ou perdu votre mot de passe, il vous suffit de suivre les étapes suivantes :
+• Cliquez sur le lien « code d’accès oublié ».
+• L’assistant de Restauration du code secret vous invitera à saisir votre numéro client, de répondre à une question secrète dont vous
+avez au préalable défini la réponse.
+• Une fois la réponse secrète vérifiée, vous recevrez sur votre téléphone portable le code OTP provisoire que vous devez saisir.
+• Vous pouvez alors saisir votre nouveau mot de passe.
+Vous pouvez également contacter votre Chargé de compte qui procédera à une “réinitialisation de votre compte », ainsi vous
+pouvez le redéfinir en suivant la procédure d’inscription.
+Foire aux Questions 4
+FOIRE AUX QUESTIONS
+SÉCURITÉ
+Quelle est la sécurité assurée par CIH ON LINE?
+CIH ON LINE vous assure la sécurité et la confidentialité de vos données et transactions bancaires grâce :
+• à la double clé composée par votre numéro client et votre mot de passe
+• à l’option qui vous permet de modifier à votre convenance votre mot de passe
+• à l’option qui verrouille votre compte d’accès après un nombre déterminé de tentatives d’accès infructueuses
+• au système de chiffrement performant SSL (Socket Secured Layer) de 128 bits. Vos communications font l’objet d’un chiffrement de
+façon à éviter qu’une tierce personne ne prenne connaissance de votre numéro client, mot de passe ou vos données bancaires
+personnelles
+• aux Firewalls (Coupe-feu ou Pare-feu) et autres dispositifs de sécurité mis en place par le CIH BANK.
+Quelles sont les mesures de sécurité à respecter par l’utilisateur ?
+• La sécurité de votre espace dépend de la robustesse de votre code secret. Choisissez un code secret qui soit à la fois facile à retenir
+et difficile à deviner par autrui.
+• Quelques règles à respecter lors du choix du code secret : longueur de 8 caractères minimum, code secret différent du code client,
+éviter la répétition excessive des caractères (par exemple : 11112222)
+• Dans un souci de prévention, nous vous rappelons de ne communiquer à personne vos codes secrets de connexion, ni par
+téléphone, ni par mail, ni par écrit. CIH BANK ne vous demandera en aucun cas et pour n’importe quel besoin de lui communiquer
+votre code secret
+• Nous vous conseillons, pour des raisons de sécurité, de ne pas enregistrer votre code client et votre code secret comme vous en
+donne la possibilité votre navigateur, sur l’écran d’identification
+• Il est indispensable pour vous assurer un accès sécurisé au site, de disposer sur votre poste de travail d’un antivirus dont la version
+devra être constamment mise à jour.
+FOIRE AUX QUESTIONS
+SÉCURITÉ
+Attention au PHISHING :
+Dans le cas où vous recevez un courrier électronique vous invitant à vous connecter au site de la banque
+https://www.cihnet.co.ma/, soit pour mettre à jour vos données, soit pour « une alerte sécurité » vous invitant à aller changer votre
+code, vous devez respecter les conditions de sécurité suivantes :
+• Ne répondez pas à ce mail
+• Ne cliquez sur aucun des liens de ce mail
+• Ne communiquez pas votre code client et votre code
+• Supprimez ce mail
+Ce type de message pourrait sembler pourtant généralement provenir de votre banque elle-même et contiendrait un lien
+électronique vers une copie parfaite du site de la banque destiné à capturer vos codes d’accès. Pour vous connecter sur le site
+transactionnel de la banque et non pas sur un site factice, tapez vous même l’adresse exacte fournie par la banque. Il est
+recommandé de saisir vous-même l’adresse URL du site CIH ON LINE « https://www.cihnet.co.ma/ » au lieu de passer par un moteur
+de recherche comme Google, et de s’assurer qu’un « s » (pour Secure) s’affiche après « http » dans la barre d’adresse et qu’un
+cadenas fermé apparaît dans la barre d’adresse ou en bas à droite de la fenêtre du navigateur.
+Que faire en cas de problèmes ?
+En cas de problème concernant l’abonnement, l’accès ou l’utilisation du CIH ON LINE , nous vous invitons à lire attentivement les
+recommandations et conseils d’utilisation fournis dans ce document.
+Si vous n’y trouvez pas de réponse aux cas que vous serez amené à rencontrer, votre agence CIH BANK se fera le plaisir de vous
+accueillir et vous assister à la résolution du problème rencontré.
+Vous pouvez également nous contacter par le biais du formulaire demande d’information disponible sur le site www.cihbank.ma.
+Foire aux Questions 6

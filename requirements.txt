@@ -1,0 +1,6 @@
+requests
+qdrant-client
+numpy
+faster-whisper
+TTS
+sounddevice
